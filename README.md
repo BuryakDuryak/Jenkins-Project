@@ -1,4 +1,4 @@
-#ССЫЛКА НА ВИДЕО С ДЕМОНСТРАЦИЕЙ: https://disk.yandex.ru/i/6mi0vXQxAj1JWw
+# ССЫЛКА НА ВИДЕО С ДЕМОНСТРАЦИЕЙ: https://disk.yandex.ru/i/6mi0vXQxAj1JWw
 Степан Буряк Александрович, ФИТ-1
 
 Облочный сервер был аредован на сайте cloud.reg.ru
