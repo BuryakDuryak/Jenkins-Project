@@ -16,3 +16,5 @@ echo deb [signed-by=/usr/share/keyrings/jenkins-keyring.asc] \
   /etc/apt/sources.list.d/jenkins.list > /dev/null
 sudo apt-get update
 sudo apt-get install jenkins
+
+Внешний вид комманд в файле почему-то плохо отображается, хотя при редактировании этого текстового файла всё показывается нормально, по отдельным стрчокам
